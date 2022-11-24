@@ -25,7 +25,7 @@
 		</a></li>
 
 		<li><a href="calendar.html"> <i
-				class="zmdi zmdi-calendar-check"></i> <span>Calendar</span> <small
+				class="zmdi zmdi-calendar-check"></i> <span>Schedule</span> <small
 				class="badge float-right badge-light">New</small>
 		</a></li>
 
