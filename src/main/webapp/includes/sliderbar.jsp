@@ -40,7 +40,7 @@
 				class="zmdi zmdi-account-circle"></i> <span>Registration</span>
 		</a></li>
 
-		<li class="sidebar-header">THÔNG TIN TÀI KHOẢN</li>
+		<li class="sidebar-header">THÔNG TIN TÀI KHOẢNg</li>
 		<li><a href="javaScript:void();"><i
 				class="zmdi zmdi-coffee text-danger"></i> <span>Important</span></a></li>
 		<li><a href="javaScript:void();"><i
