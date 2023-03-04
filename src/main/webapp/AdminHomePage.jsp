@@ -15,7 +15,7 @@
 <body>
 	<div id="wrapper">
 		<%@include file="includes/sliderbar.jsp" %>
-		<%@include file="includes/Topbar.jsp" %>
+		<%@include file="includes/Topbar.jsp" %>s
 	</div>
 	<%@include file="includes/script.jsp" %>
 </body>
